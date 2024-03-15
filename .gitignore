@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+.idea/
+
+
+SweetDreams/appsettings.json
+SweetDreams/appsettings.Development.json
+/SweetDreams/appsettings.json
